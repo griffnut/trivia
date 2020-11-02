@@ -39,9 +39,7 @@ function App() {
           shuffle = { shuffle } 
           />
         : <header className="header">
-            <p>
               Press Begin to start the trivia game!
-            </p>
             <button onClick={() => gameBegin(questions)}>Begin</button>
           </header>
       }

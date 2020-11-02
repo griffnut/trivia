@@ -13,6 +13,7 @@ The project will open on http://localhost:3000
 - [x] Multiple Choice
 - [x] Tells correct answer and score after selecting a choice
 - [x] After finishing, you'll receive your final score and have an option to play again
+- [x] Responsive regardless of screen size
 - [ ] Unit Tests
 - [ ] Form to add your own questions
 - [ ] Possibility to create own categories for what kinda trivia you'd like to do
